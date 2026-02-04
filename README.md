@@ -52,27 +52,6 @@ I'm especially interested in:
 - OAuth2
 - Password hashing
 
-### Tooling
-- Git / GitHub / GitLab
-- Maven / Gradle
-
-
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Payments Distributed Platform
-
-A distributed backend platform based on microservices:
-- API Gateway with authentication and rate limiting
-- Auth Service (JWT + OAuth2)
-- Wallet & Transaction services
-- Synchronous (Feign) and asynchronous (Kafka) communication
-- Circuit breakers and retries
-- Observability with Prometheus & Grafana
-
-👉 Repository: **payments-distributed-platform**
 
 ---
 
