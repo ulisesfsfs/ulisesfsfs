@@ -1,16 +1,93 @@
-## Hi there 👋
+# 👋 Hi, I'm Ulises
 
-<!--
-**ulisesfsfs/ulisesfsfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend Developer  
+☕ Java | 🟦 .NET | 🐍 Python  
+🚀 Microservices · APIs · Distributed Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I'm a backend developer with experience in **Java (Spring Boot)**, **.NET**, and **Python**, focused on building **scalable APIs** and **distributed architectures**.
+
+I'm especially interested in:
+- Microservices and service-to-service communication
+- Event-driven architectures
+- Security (JWT, OAuth2)
+- Observability and resilience
+- Clean architecture and separation of concerns
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java 
+- C# (.NET)
+- Python
+
+### Backend / Frameworks
+- Spring Boot / Spring Cloud
+- ASP.NET Core
+- FastAPI / Flask
+
+### Architecture & Infrastructure
+- API Gateway
+- OpenFeign
+- Resilience4j
+- Apache Kafka
+- Redis
+- Docker
+- Kubernetes
+
+### Databases
+- PostgreSQL
+- MySQL
+- JPA / Hibernate
+- Entity Framework Core
+
+### Security
+- Spring Security
+- JWT
+- OAuth2
+- Password hashing
+
+### Tooling
+- Git / GitHub / GitLab
+- Maven / Gradle
+
+
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Payments Distributed Platform
+
+A distributed backend platform based on microservices:
+- API Gateway with authentication and rate limiting
+- Auth Service (JWT + OAuth2)
+- Wallet & Transaction services
+- Synchronous (Feign) and asynchronous (Kafka) communication
+- Circuit breakers and retries
+- Observability with Prometheus & Grafana
+
+👉 Repository: **payments-distributed-platform**
+
+---
+
+## 📚 Education
+
+- **Bachelor’s Degree in Information Systems**  
+  National University of La Plata (UNLP)  
+  *(In progress)*
+
+- Background in systems and software development
+- Self-taught backend-focused learning
+- Official documentation and hands-on projects
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/ulisesfsfs
