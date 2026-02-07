@@ -50,8 +50,6 @@ I'm especially interested in:
 - Spring Security
 - JWT
 - OAuth2
-- Password hashing
-
 
 ---
 
